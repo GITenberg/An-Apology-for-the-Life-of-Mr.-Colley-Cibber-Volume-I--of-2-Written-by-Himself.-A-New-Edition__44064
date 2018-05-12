@@ -1,0 +1,33 @@
+_repo: An-Apology-for-the-Life-of-Mr.-Colley-Cibber-Volume-I--of-2-Written-by-Himself.-A-New-Edition__44064
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44064-h/images/cover-vol-i.jpg
+creator:
+  author:
+    agent_name: Cibber, Colley
+    alias: Cibber, C. (Colley)
+    birthdate: 1671
+    deathdate: 1757
+    gutenberg_agent_id: '36193'
+    url: http://www.gutenberg.org/2009/agents/36193
+description: ''
+gutenberg_issued: '2013-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Actors -- Great Britain -- Biography'
+- !lcsh 'Theater -- Great Britain -- History -- 18th century'
+- !lcc 'PR'
+- !lcc 'CT'
+- !lcsh 'Dramatists, English -- 18th century -- Biography'
+- !lcsh 'Theatrical managers -- Great Britain -- Biography'
+- !lcsh 'Cibber, Colley, 1671-1757'
+title: "An Apology for the Life of Mr. Colley Cibber, Volume 1 (of 2)\r\nWritten by\
+  \ Himself. A New Edition with Notes and Supplement"
+url: http://www.gutenberg.org/ebooks/44064
